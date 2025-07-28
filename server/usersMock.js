@@ -8,7 +8,7 @@ const users = [
       {
         _id: '156489asdjew1564',
         name: 'Ivolution',
-        role: 'entrenador',
+        role: 'colaborador',
       },
     ],
     image: 'https://placehold.co/200x200/E6E6E6/000000?text=ST', 
