@@ -22,7 +22,7 @@ app.post('/auth/login', (req, res) => {
 
   if (userAuth) {
     console.log('Authenticated user:', userAuth.name);
-    const { password: userPassword, ...userProfile } = userAuth;
+    const { password: userPassword, identifier:identifier,  ...userProfile } = userAuth;
     return res.json({
       success: true,
       token: 'fake-token',
