@@ -25,7 +25,7 @@ const users = [
         role: 'administrador',
       },
     ],
-    image: 'https://placehold.co/200x200/E6E6E6/000000?text=SC',
+    image: 'https://placehold.co/200x200/E6E6E6/000000?text=GC',
   },
   {
      identifier: 'sebaIvolution@gmail.com',
